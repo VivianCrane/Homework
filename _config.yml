@@ -25,7 +25,7 @@ covering key aspects such as GitHub's repository management and collaboration to
 locally with proper configuration, mastering Markdown syntax for formatting tasks, customizing the Jekyll website
 by adding pages and modifying themes, and deploying the website using Github Pages.
 baseurl: "/Homework" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://viviancrane.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
