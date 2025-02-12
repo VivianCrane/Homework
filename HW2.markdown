@@ -26,6 +26,6 @@ This is a paragraph.
 | git commit | Record changes to the repository |
 | git push | Upload local repository content to a remote repository |
 > this is a quote
-[This is a link to Google](https://www.google.com/)
+> [This is a link to Google](https://www.google.com/)
 
 
