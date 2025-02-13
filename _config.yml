@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Homework2
-email: vcrane27@jcu.edu
-description: >- Homework2 will center on GitHub, Jekyll, and Markdown, 
+title: "Homework2"
+email: "vcrane27@jcu.edu"
+description: >- "Homework2 will center on GitHub, Jekyll, and Markdown, 
 covering key aspects such as GitHub's repository management and collaboration tools, setting up a Jekyll website
 locally with proper configuration, mastering Markdown syntax for formatting tasks, customizing the Jekyll website
-by adding pages and modifying themes, and deploying the website using Github Pages.
+by adding pages and modifying themes, and deploying the website using Github Pages."
 baseurl: "Homework" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
