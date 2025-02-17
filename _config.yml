@@ -28,7 +28,7 @@ description: >-
   by adding pages and modifying themes, and deploying the website using
   GitHub Pages.
 baseurl: "Homework" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "HW" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
